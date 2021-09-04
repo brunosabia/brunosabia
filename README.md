@@ -8,7 +8,7 @@ Hi there! 👋
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosabia&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/brunosabia/brunosabia/blob/output/github-contribution-grid-snake.svg)
 <!--
 **brunosabia/brunosabia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
